@@ -1,0 +1,1044 @@
+﻿Rank,City,Population
+1,Columbus,"892,533"
+2,Cleveland,"383,793"
+3,Cincinnati,"302,605"
+4,Toledo,"274,975"
+5,Akron,"198,006"
+6,Dayton,"140,640"
+7,Parma,"78,751"
+8,Canton,"70,458"
+9,Youngstown,"64,958"
+10,Lorain,"64,028"
+11,Hamilton,"62,174"
+12,Springfield,"59,282"
+13,Kettering,"55,103"
+14,Elyria,"53,881"
+15,Lakewood,"50,100"
+16,Newark,"50,029"
+17,Cuyahoga Falls,"49,272"
+18,Middletown,"48,861"
+19,Dublin,"48,647"
+20,Beavercreek,"47,391"
+21,Mentor,"47,273"
+22,Euclid,"46,946"
+23,Mansfield,"46,560"
+24,Strongsville,"44,853"
+25,Cleveland Heights,"44,373"
+26,Fairfield,"42,613"
+27,Grove City,"41,625"
+28,Findlay,"41,324"
+29,Lancaster,"40,414"
+30,Westerville,"40,387"
+31,Delaware,"39,930"
+32,Warren,"38,382"
+33,Reynoldsburg,"38,278"
+34,Huber Heights,"38,174"
+35,Lima,"36,862"
+36,Hilliard,"36,414"
+37,Marion,"36,087"
+38,Gahanna,"35,551"
+39,Upper Arlington,"35,522"
+40,Brunswick,"34,897"
+41,Stow,"34,857"
+42,Boardman,"34,717"
+43,North Ridgeville,"33,889"
+44,Fairborn,"33,658"
+45,Mason,"33,586"
+46,Massillon,"32,410"
+47,Westlake,"32,233"
+48,North Olmsted,"31,591"
+49,Bowling Green,"31,578"
+50,North Royalton,"30,239"
+51,Kent,"29,662"
+52,Austintown,"28,438"
+53,Garfield Heights,"27,687"
+54,Shaker Heights,"27,302"
+55,Xenia,"26,783"
+56,Wooster,"26,560"
+57,Troy,"26,132"
+58,Barberton and Medina,"26,072"
+59,Green,"25,783"
+60,Zanesville,"25,364"
+61,Riverside,"25,151"
+62,Sandusky,"24,714"
+63,Athens,"24,688"
+64,Trotwood,"24,435"
+65,Avon Lake,"24,391"
+66,Marysville,"24,267"
+67,Wadsworth,"23,781"
+68,Centerville city,"23,772"
+69,Avon,"23,263"
+70,Willoughby,"22,988"
+71,Solon,"22,911"
+72,Oxford,"22,885"
+73,Hudson,"22,285"
+74,Maple Heights,"22,278"
+75,Chillicothe,"21,698"
+76,Alliance,"21,616"
+77,Perrysburg,"21,570"
+78,South Euclid,"21,473"
+79,Pickerington,"21,201"
+80,Piqua,"21,200"
+81,Lebanon,"20,727"
+82,Sidney,"20,516"
+83,Ashland,"20,423"
+84,Portsmouth,"20,340"
+85,Rocky River,"20,135"
+86,Parma Heights,"19,955"
+87,Miamisburg,"19,941"
+88,Oregon,"19,918"
+89,Painesville,"19,881"
+90,Norwood,"19,834"
+91,Broadview Heights,"19,202"
+92,Twinsburg,"19,068"
+93,Sylvania,"19,030"
+94,Whitehall,"19,011"
+95,White Oak,"18,875"
+96,Springboro,"18,794"
+97,Forest Park,"18,678"
+98,Berea,"18,655"
+99,Mayfield Heights,"18,606"
+100,Brook Park,"18,533"
+101,Niles,"18,325"
+102,Eastlake,"18,131"
+103,Ashtabula,"18,079"
+104,Steubenville,"17,864"
+105,Tallmadge,"17,582"
+106,Tiffin,"17,546"
+107,New Philadelphia,"17,417"
+108,North Canton,"17,277"
+109,East Cleveland,"17,109"
+110,Norwalk,"16,923"
+111,Mount Vernon,"16,701"
+112,Defiance,"16,663"
+113,Streetsboro,"16,503"
+114,Fairview Park,"16,284"
+115,Aurora,"16,230"
+116,Fremont,"16,034"
+117,Pataskala,"15,780"
+118,Middleburg Heights,"15,540"
+119,Bay Village,"15,295"
+120,Vandalia,"15,045"
+121,Worthington,"14,725"
+122,New Franklin,"14,168"
+123,Washington Court House,"14,159"
+124,Willowick,"14,146"
+125,Bridgetown,"13,993"
+126,Circleville,"13,965"
+127,Monroe,"13,887"
+128,Bexley,"13,854"
+129,Sharonville,"13,836"
+130,Maumee,"13,722"
+131,Brecksville,"13,632"
+132,Marietta,"13,604"
+133,Lyndhurst,"13,484"
+134,Englewood,"13,475"
+135,Powell,"13,309"
+136,Fostoria,"13,251"
+137,Clayton,"13,223"
+138,Warrensville Heights,"13,216"
+139,Bellefontaine,"13,166"
+140,Monfort Heights,"13,154"
+141,Loveland,"13,107"
+142,Trenton,"13,012"
+143,University Heights,"12,938"
+144,West Carrollton,"12,914"
+145,Wickliffe,"12,758"
+146,Dover,"12,755"
+147,Greenville,"12,694"
+148,Conneaut,"12,567"
+149,Bedford,"12,561"
+150,Finneytown,"12,413"
+151,Wilmington,"12,401"
+152,Blue Ash,"12,274"
+153,Amherst,"12,148"
+154,Norton,"12,017"
+155,Macedonia,"11,927"
+156,Bucyrus,"11,785"
+157,Salem,"11,715"
+158,Franklin,"11,686"
+159,Beachwood,"11,658"
+160,Seven Hills,"11,654"
+161,Harrison,"11,608"
+162,Ravenna,"11,476"
+163,Urbana,"11,372"
+164,Springdale,"11,205"
+165,Mack,"11,192"
+166,Coshocton,"11,054"
+167,Dent,"11,012"
+168,New Albany,"10,889"
+169,Heath,"10,861"
+170,Forestville,"10,829"
+171,Montgomery,"10,805"
+172,Northbrook,"10,760"
+173,Brooklyn,"10,737"
+174,East Liverpool,"10,713"
+175,Van Wert,"10,680"
+176,Ironton,"10,635"
+177,Bedford Heights,"10,534"
+178,Vermilion,"10,437"
+179,Richmond Heights,"10,380"
+180,Cambridge,"10,360"
+181,Celina,"10,296"
+182,London,"10,271"
+183,Reading,"10,264"
+184,Struthers,"10,207"
+185,Tipp City,"10,056"
+186,Galion,"9,962"
+187,Lincoln Village,"9,899"
+188,Wapakoneta,"9,733"
+189,Blacklick Estates,"9,684"
+190,Willoughby Hills,"9,571"
+191,Louisville,"9,320"
+192,Girard,"9,314"
+193,North College Hill,"9,281"
+194,Madeira,"9,219"
+195,Shelby,"9,030"
+196,Oakwood city,"8,980"
+197,Sheffield Lake,"8,960"
+198,Beckett Ridge,"8,955"
+199,Olmsted Falls,"8,889"
+200,Perry Heights,"8,788"
+201,Canal Winchester,"8,604"
+202,North Madison,"8,593"
+203,Wyoming,"8,576"
+204,Orrville,"8,450"
+205,Highland Heights,"8,405"
+206,Grandview Heights,"8,321"
+207,Oberlin,"8,312"
+208,Cheviot,"8,280"
+209,Bryan,"8,255"
+210,Napoleon,"8,249"
+211,St. Marys,"8,224"
+212,Kenton,"8,215"
+213,Eaton,"8,164"
+214,Dry Run,"7,961"
+215,Bellevue,"7,936"
+216,Campbell,"7,859"
+217,Fairlawn,"7,534"
+218,Withamsville,"7,467"
+219,Hubbard,"7,461"
+220,Wauseon,"7,425"
+221,Northgate,"7,420"
+222,Mentor-on-the-Lake,"7,404"
+223,Kenwood,"7,313"
+224,Bellbrook,"7,284"
+225,Canfield,"7,234"
+226,Independence,"7,167"
+227,Northridge,"7,115"
+228,Landen,"7,100"
+229,Logan,"7,050"
+230,Delphos,"6,950"
+231,Portage Lakes,"6,922"
+232,Huron,"6,893"
+233,Milford,"6,860"
+234,Kirtland,"6,827"
+235,Cortland,"6,809"
+236,Union,"6,783"
+237,Martins Ferry,"6,596"
+238,Howland Center,"6,594"
+239,Rittman,"6,551"
+240,Rossford,"6,548"
+241,Hillsboro,"6,527"
+242,Covedale,"6,510"
+243,Upper Sandusky,"6,481"
+244,Moraine,"6,442"
+245,Groesbeck,"6,393"
+246,Belpre,"6,391"
+247,Champion Heights,"6,366"
+248,Pepper Pike,"6,333"
+249,Jackson,"6,242"
+250,Columbiana,"6,231"
+251,Wheelersburg,"6,183"
+252,Clyde,"6,174"
+253,Ontario,"6,085"
+254,Mount Healthy,"6,057"
+255,Willard,"6,044"
+256,Geneva,"5,955"
+257,Port Clinton,"5,928"
+258,Granville,"5,890"
+259,The Village of Indian Hill,"5,887"
+260,Brookville,"5,885"
+261,Grafton,"5,878"
+262,Fort Shawnee,"5,875"
+263,Sunbury,"5,874"
+264,Deer Park,"5,663"
+265,Groveport,"5,645"
+266,New Carlisle,"5,578"
+267,Ada,"5,557"
+268,Apple Valley,"5,520"
+269,Waterville,"5,517"
+270,Wellston,"5,508"
+271,Germantown,"5,504"
+272,Canal Fulton,"5,452"
+273,Northwood,"5,420"
+274,Carlisle,"5,399"
+275,Delhi Hills,"5,330"
+276,Uhrichsville,"5,327"
+277,Mount Carmel,"5,184"
+278,Nelsonville,"5,183"
+279,Chardon,"5,179"
+280,Turpin Hills,"5,170"
+281,Mount Repose,"5,160"
+282,Obetz,"5,104"
+283,Munroe Falls,"5,077"
+284,Johnstown,"5,065"
+285,St. Clairsville,"5,012"
+286,Amelia,"5,009"
+287,Toronto,"4,959"
+288,Wellington,"4,914"
+289,Pleasant Run Farm,"4,839"
+290,Whitehouse,"4,796"
+291,West Milton,"4,795"
+292,Summerside,"4,794"
+293,Silverton,"4,750"
+294,Miami Heights,"4,740"
+295,Lexington,"4,680"
+296,New Lexington,"4,662"
+297,Huber Ridge,"4,635"
+298,Montrose-Ghent,"4,624"
+299,South Lebanon,"4,600"
+300,Greenfield,"4,555"
+301,Coldwater,"4,547"
+302,Cherry Grove,"4,511"
+303,Newton Falls,"4,510"
+304,Ottawa Hills,"4,470"
+305,East Palestine,"4,466"
+306,Crestline,"4,432"
+307,Plain City,"4,426"
+308,West Jefferson,"4,411"
+309,Reminderville,"4,390"
+310,St. Bernard,"4,360"
+311,New Burlington,"4,345"
+312,Ottawa,"4,333"
+313,Archbold,"4,320"
+314,Park Layne,"4,306"
+315,Pleasant Run,"4,299"
+316,Ashville,"4,298"
+317,Edgewood,"4,282"
+318,Georgetown,"4,280"
+319,Waverly,"4,270"
+320,Sheffield,"4,268"
+321,Lake Darby,"4,265"
+322,Blanchester,"4,249"
+323,Sebring,"4,222"
+324,Cedarville,"4,130"
+325,Bluffton,"4,080"
+326,Bellaire,"4,064"
+327,Barnesville,"4,039"
+328,New Lebanon,"4,000"
+329,Fruit Hill and Chagrin Falls,"3,963"
+330,Montpelier,"3,945"
+331,Greentown,"3,893"
+332,South Point,"3,870"
+333,Swanton,"3,855"
+334,Mogadore,"3,836"
+335,Amberley,"3,786"
+336,South Russell,"3,773"
+337,Mulberry,"3,761"
+338,Newcomerstown,"3,751"
+339,Mineral Ridge,"3,748"
+340,Yellow Springs,"3,702"
+341,Wintersville,"3,693"
+342,Northfield,"3,671"
+343,Mount Gilead,"3,661"
+344,Calcutta,"3,657"
+345,Oakwood,"3,655"
+346,Richfield,"3,646"
+347,Mount Healthy Heights,"3,635"
+348,Minerva,"3,615"
+349,Greenhills,"3,593"
+350,Shadyside,"3,572"
+351,Carey,"3,566"
+352,Gallipolis,"3,564"
+353,North Baltimore,"3,543"
+354,Golf Manor,"3,526"
+355,Mount Orab,"3,479"
+356,Dillonvale,"3,477"
+357,Ross,"3,466"
+358,Mariemont,"3,464"
+359,Lockland,"3,455"
+360,Four Bridges,"3,450"
+361,Hicksville,"3,448"
+362,Paulding,"3,445"
+363,Cleves,"3,427"
+364,Sherwood CDP,"3,424"
+365,Lake Lakengren,"3,422"
+366,Brimfield,"3,371"
+367,Mayfield,"3,361"
+368,Woodlawn,"3,341"
+369,Lincoln Heights,"3,331"
+370,Wellsville,"3,330"
+371,Uniontown,"3,319"
+372,Moreland Hills and Taylor Creek,"3,305"
+373,Orange,"3,278"
+374,Lordstown,"3,266"
+375,Richville,"3,234"
+376,Mingo Junction,"3,229"
+377,Cadiz,"3,200"
+378,Millersburg,"3,189"
+379,Madison,"3,170"
+380,West Union,"3,163"
+381,Walbridge,"3,138"
+382,Waynesville,"3,136"
+383,Delshire and Beechwood Trails,"3,135"
+384,Salem Heights,"3,132"
+385,Delta,"3,117"
+386,Doylestown,"3,084"
+387,Lakemore,"3,081"
+388,Fairport Harbor,"3,079"
+389,McDonald,"3,063"
+390,Hartville,"3,056"
+391,Carrollton,"3,055"
+392,Sixteen Mile Stand,"3,036"
+393,Baltimore,"2,995"
+394,Jefferson,"2,994"
+395,The Plains and Bainbridge,"2,983"
+396,New Bremen,"2,980"
+397,West Portsmouth,"2,895"
+398,Lodi,"2,884"
+399,Day Heights,"2,855"
+400,Buckeye Lake,"2,851"
+401,Evendale,"2,840"
+402,Minster,"2,820"
+403,North Kingsville,"2,800"
+404,Bethel,"2,798"
+405,Ballville,"2,771"
+406,Burlington,"2,760"
+407,Oak Harbor,"2,732"
+408,North Zanesville,"2,718"
+409,Middlefield,"2,710"
+410,New Richmond,"2,688"
+411,Covington,"2,683"
+412,Strasburg,"2,682"
+413,Lisbon,"2,668"
+414,Newtown,"2,664"
+415,Loudonville,"2,630"
+416,Dry Ridge,"2,607"
+417,Dennison,"2,602"
+418,Devola,"2,589"
+419,Versailles,"2,576"
+420,Wright-Patterson AFB,"2,574"
+421,Williamsburg,"2,559"
+422,Sabina,"2,545"
+423,St. Henry,"2,540"
+424,Green Meadows,"2,529"
+425,Fredericktown,"2,515"
+426,Gibsonburg,"2,511"
+427,Silver Lake,"2,500"
+428,Crooksville,"2,482"
+429,Hebron,"2,469"
+430,Gambier,"2,458"
+431,Middleport,"2,444"
+432,Poland,"2,434"
+433,Richwood,"2,424"
+434,Seville,"2,413"
+435,Enon,"2,386"
+436,Hunter,"2,384"
+437,Skyline Acres,"2,383"
+438,New London,"2,378"
+439,New Miami,"2,364"
+440,Byesville,"2,362"
+441,LaGrange,"2,359"
+442,Garrettsville,"2,329"
+443,West Lafayette,"2,312"
+444,Shawnee Hills CDP,"2,305"
+445,Terrace Park,"2,297"
+446,Genoa,"2,289"
+447,Walton Hills,"2,285"
+448,Wilberforce,"2,244"
+449,Utica,"2,241"
+450,Woodsfield,"2,236"
+451,Gates Mills,"2,235"
+452,Sugarcreek,"2,220"
+453,Bolindale,"2,217"
+454,Centerburg,"2,214"
+455,Windham,"2,211"
+456,New Concord,"2,209"
+457,Elmwood Place,"2,198"
+458,Creston,"2,193"
+459,Glendale,"2,182"
+460,Spencerville,"2,167"
+461,Brewster,"2,159"
+462,Piketon,"2,157"
+463,Jamestown,"2,125"
+464,New Boston,"2,112"
+465,South Zanesville,"2,086"
+466,Coal Grove,"2,083"
+467,Columbus Grove,"2,071"
+468,Rosemount and Newburgh Heights,"2,068"
+469,Churchill,"2,060"
+470,Cardington,"2,055"
+471,Glenmoor,"2,041"
+472,Chesterland,"2,037"
+473,Woodville,"2,033"
+474,Masury,"2,032"
+475,Leipsic,"2,025"
+476,Arcanum,"2,017"
+477,Valley View,"2,005"
+478,St. Paris,"2,003"
+479,Edgerton,"1,997"
+480,Camden,"1,983"
+481,South Bloomfield,"1,974"
+482,Manchester,"1,962"
+483,New California,"1,951"
+484,West Hill,"1,944"
+485,Bellville,"1,897"
+486,Bradford,"1,867"
+487,Navarre and Dalton,"1,854"
+488,Leetonia,"1,851"
+489,Brilliant,"1,846"
+490,Roseville,"1,836"
+491,Five Points,"1,830"
+492,Elida,"1,810"
+493,Plymouth,"1,809"
+494,Drexel,"1,804"
+495,Cridersville,"1,800"
+496,Glouster,"1,795"
+497,West Liberty and Mount Sterling,"1,788"
+498,Pomeroy,"1,783"
+499,Dunlap and Pleasant Grove,"1,763"
+500,McConnelsville,"1,762"
+501,Lewisburg,"1,753"
+502,Bridgeport,"1,751"
+503,Rossmoyne,"1,749"
+504,Peebles,"1,732"
+505,Deshler,"1,725"
+506,Fairfax,"1,708"
+507,Lake Mohawk,"1,707"
+508,Ripley,"1,701"
+509,Caldwell,"1,699"
+510,Curtice,"1,695"
+511,Dresden,"1,693"
+512,Lithopolis,"1,688"
+513,Antwerp,"1,685"
+514,South Amherst,"1,682"
+515,Commercial Point and Batavia,"1,674"
+516,West Unity,"1,666"
+517,Harbor Hills,"1,659"
+518,McArthur,"1,658"
+519,Holland and Weston,"1,647"
+520,McComb,"1,644"
+521,Perry,"1,629"
+522,Loveland Park,"1,624"
+523,South Charleston,"1,620"
+524,Aberdeen,"1,608"
+525,Union City,"1,599"
+526,Orwell,"1,594"
+527,Mechanicsburg,"1,586"
+528,Kalida,"1,582"
+529,East Canton,"1,580"
+530,New Paris,"1,577"
+531,Ashley,"1,573"
+532,New Middletown,"1,564"
+533,Grandview,"1,535"
+534,Powhatan Point,"1,533"
+535,Miamitown,"1,531"
+536,Franklin Furnace,"1,525"
+537,Anna,"1,523"
+538,Oak Hill and Fort Loramie,"1,517"
+539,Shreve,"1,516"
+540,Brooklyn Heights,"1,512"
+541,Leavittsburg,"1,488"
+542,Choctaw Lake,"1,487"
+543,Kings Mills,"1,483"
+544,Lynchburg,"1,478"
+545,West Salem,"1,474"
+546,Jackson Center,"1,463"
+547,"Brookfield Center, North Lewisburg, and Somerset","1,459"
+548,Roaming Shores,"1,457"
+549,Fort Recovery,"1,456"
+550,Burton,"1,454"
+551,Arlington,"1,451"
+552,Lucasville,"1,443"
+553,Bremen and Forest,"1,442"
+554,Greenwich,"1,431"
+555,Pemberville,"1,415"
+556,Crystal Lakes,"1,413"
+557,Highpoint,"1,409"
+558,Holiday Valley,"1,402"
+559,Wetherington,"1,398"
+560,Pioneer,"1,393"
+561,Stony Prairie,"1,392"
+562,Russells Point,"1,378"
+563,Elmore,"1,377"
+564,Monroeville,"1,361"
+565,Granville South,"1,348"
+566,Milan,"1,335"
+567,West Alexandria,"1,331"
+568,Minerva Park,"1,327"
+569,Sawyerwood,"1,323"
+570,Beverly,"1,321"
+571,Boston Heights,"1,315"
+572,La Croft and Green Springs,"1,313"
+573,Morrow,"1,312"
+574,Frazeysburg and Leesburg,"1,309"
+575,Stryker,"1,308"
+576,Lake Lorelei,"1,296"
+577,Pheasant Run,"1,289"
+578,Tiltonsville,"1,282"
+579,De Graff,"1,266"
+580,Smithville,"1,263"
+581,Gnadenhutten,"1,261"
+582,Cinnamon Lake,"1,251"
+583,Wolfhurst,"1,247"
+584,Fayette,"1,246"
+585,Pleasant Hill,"1,244"
+586,Millbury,"1,243"
+587,Haskins,"1,235"
+588,Salineville,"1,229"
+589,Bethesda,"1,226"
+590,New Vienna,"1,223"
+591,Coldstream,"1,218"
+592,Clinton,"1,213"
+593,Geneva-on-the-Lake,"1,206"
+594,Hanover,"1,198"
+595,New Waterford,"1,192"
+596,Apple Creek,"1,187"
+597,Walnut Creek,"1,177"
+598,Jeffersonville,"1,176"
+599,Westfield Center,"1,171"
+600,Bratenahl,"1,161"
+601,Hiram,"1,155"
+602,Botkins,"1,154"
+603,Sardinia,"1,144"
+604,Payne,"1,143"
+605,New Madison,"1,134"
+606,Ansonia,"1,128"
+607,Malvern,"1,125"
+608,Craig Beach,"1,121"
+609,Liberty Center,"1,118"
+610,Pandora,"1,111"
+611,Duncan Falls,"1,108"
+612,Sciotodale,"1,106"
+613,Rockford and Eaton Estates,"1,105"
+614,Reno,"1,103"
+615,Williamsdale,"1,102"
+616,Andover,"1,100"
+617,Lowellville,"1,097"
+618,Continental,"1,096"
+619,Maineville,"1,090"
+620,Berlin,"1,089"
+621,Lakeview,"1,083"
+622,Blue Jay,"1,079"
+623,Newport CDP,"1,068"
+624,Williamsport,"1,067"
+625,Holgate,"1,064"
+626,Prospect,"1,059"
+627,Convoy and Millersport,"1,054"
+628,Atwater,"1,051"
+629,Tuscarawas,"1,048"
+630,Frankfort,"1,047"
+631,Chauncey,"1,045"
+632,Luckey,"1,043"
+633,Kidron,"1,034"
+634,Wakeman,"1,030"
+635,Mantua,"1,027"
+636,South Canal,"1,021"
+637,Glandorf,"1,020"
+638,Bradner and Yorkville,"1,017"
+639,Danville and Kingston,"1,014"
+640,Twinsburg Heights,"1,010"
+641,Winchester,"1,006"
+642,Farmersville,"1,005"
+643,Urbancrest,"1,004"
+644,Grand Rapids,"1,003"
+645,Thornville,"1,002"
+646,Thornport,997
+647,North Randall,996
+648,Beach City,995
+649,Highland Hills,992
+650,Lake Waynoka,990
+651,Logan Elm Village,986
+652,Bolivar,974
+653,Ottoville and Magnolia,963
+654,Pleasantville,956
+655,Fairfield Beach,950
+656,Addyston,943
+657,Glenwillow,931
+658,Beloit,928
+659,Wayne,920
+660,Killbuck and Bloomingburg,919
+661,New Washington,918
+662,Bloomville,915
+663,Hopedale,913
+664,Maple Ridge,911
+665,Waynesburg,908
+666,Albany,901
+667,Seaman,900
+668,Butler,896
+669,Marblehead,894
+670,Etna and Lake Tomahawk,890
+671,North Perry,887
+672,Milford Center,880
+673,North Bend,870
+674,New Knoxville and Matamoras,865
+675,Hamden,862
+676,Woodmere,861
+677,Candlewood Lake and Attica,859
+678,Bentleyville,851
+679,Gratis,850
+680,Bainbridge village,849
+681,"Andersonville, Dunkirk, and Felicity",847
+682,New Holland,845
+683,Flushing,839
+684,Alger,835
+685,Sycamore,828
+686,Owensville,824
+687,Waynesfield,822
+688,Syracuse and Castalia,819
+689,New Baltimore,817
+690,Edon,812
+691,Sherwood and Belle Center,810
+692,South Webster,809
+693,Junction City,807
+694,Shawnee Hills,805
+695,East Sparta and Pigeon Creek,802
+696,Neffs,800
+697,Smithfield,798
+698,Seven Mile,788
+699,Spencer,785
+700,Rio Grande,783
+701,Baltic,781
+702,Chippewa Park,777
+703,Lansing,768
+704,Marshallville,763
+705,Washingtonville,756
+706,Amanda,747
+707,Marne,745
+708,Midvale,743
+709,Chippewa Lake,741
+710,Arlington Heights,740
+711,Millville,735
+712,Ostrander and Marble Cliff,733
+713,Nevada,731
+714,Philo,728
+715,Scio,726
+716,Galena,723
+717,Perrysville,722
+718,Hunting Valley,719
+719,Berlin Heights,716
+720,Concorde Hills,714
+721,Mineral City and East Springfield,712
+722,La Rue,711
+723,New Straitsville,710
+724,Chesapeake,709
+725,Adena,708
+726,Gettysburg,700
+727,Lake Buckhorn,699
+728,Lakeside,698
+729,Quincy,697
+730,Rocky Fork Point,694
+731,Wayne Lakes,688
+732,Warsaw,687
+733,Darbydale,686
+734,Pleasant Hills,685
+735,Ohio City,683
+736,Bloomdale,682
+737,Morgandale and McClure,679
+738,Racine,673
+739,West Mansfield,672
+740,Russia,666
+741,Jewett,656
+742,McKinley Heights,654
+743,Timberlake,652
+744,Mendon and Malta,645
+745,Kirtland Hills,644
+746,Shawnee village and Valleyview,642
+747,Holiday Lakes,641
+748,Risingsun,628
+749,Bettsville,625
+750,Hide-A-Way Hills,622
+751,Bergholz,620
+752,"Shiloh, Lake Milton, and Dillonvale village",619
+753,Cygnet,615
+754,Cuyahoga Heights,614
+755,Metamora,612
+756,Rudolph and Mount Victory,609
+757,Thurston,606
+758,Bay View,605
+759,Clarktown,604
+760,Shawnee,601
+761,Austinburg,595
+762,Lucas,594
+763,Arcadia and Lake Seneca,593
+764,Oakwood village,590
+765,Brookside,583
+766,McDermott,578
+767,Riverlea,569
+768,Meyers Lake and Corning,568
+769,Port Washington and Buchtel,566
+770,Rawson and Stoutsville,564
+771,Middle Point,562
+772,Carroll and Harveysburg,561
+773,Sardis and Caledonia,559
+774,Peninsula,558
+775,Hamler,557
+776,Jeromesville,553
+777,"Iberia, Clarksville, and Phillipsburg",550
+778,"Lyons, Kirkersville, and Tuppers Plains",549
+779,Proctorville,546
+780,Alexandria,542
+781,North Fairfield,539
+782,Hilltop,538
+783,Lowell,535
+784,Goshen,529
+785,Cairo,527
+786,Kinsman Center,524
+787,Republic,523
+788,Rushsylvania,520
+789,New Haven,517
+790,Russellville,514
+791,Valley City,512
+792,Sterling,510
+793,Rock Creek and Laurelville,509
+794,Hamersville,505
+795,Christiansburg,504
+796,New Bloomington,503
+797,Waterford,500
+798,Spring Valley,499
+799,Coolville,498
+800,Eldorado and Vienna Center,493
+801,West Farmington,491
+802,Brecon and Stockport,490
+803,Jacksonville,488
+804,McGuffey and Stewart,487
+805,Fort Jennings,486
+806,Laura,485
+807,Quaker City,483
+808,Mount Blanchard and Fletcher,482
+809,Williston,480
+810,Verona and Amsterdam,476
+811,Damascus,474
+812,Portage,473
+813,Coalton,470
+814,North Hampton,469
+815,Corwin,467
+816,Whites Landing and Brady Lake,464
+817,Darrtown,463
+818,Van Buren and Hayesville,461
+819,Martinsville and Waite Hill,456
+820,Richmond,449
+821,West Manchester,448
+822,Senecaville and Mount Pleasant,445
+823,Gloria Glens Park,444
+824,Clarksburg,442
+825,Huntsville,441
+826,Murray City and Belmont,440
+827,Edison,439
+828,Jerry City,435
+829,Beaver,434
+830,Pleasant City,429
+831,Minford,428
+832,Sugar Grove and Westminster,425
+833,Lindsey,424
+834,Fredericksburg,423
+835,Pettisville,420
+836,Lafayette and Savannah,419
+837,College Corner,418
+838,Ridgeville Corners,415
+839,Richmond Dale and Rocky Ridge,412
+840,Hartford,409
+841,Stony Ridge,406
+842,Crown City,404
+843,Trimble,403
+844,South Vienna and Grand River,401
+845,Collins,400
+846,Hooven and Harrod,399
+847,Holmesville and Rayland,398
+848,Neapolis,393
+849,Barnhill,392
+850,Hanoverton,391
+851,New Pittsburg,389
+852,St. Louisville,385
+853,"Willshire, Rutland, and Beallsville",383
+854,"Highland Holiday, Tontogany, and Derby",382
+855,Morral,381
+856,Bowerston,380
+857,Grover Hill,378
+858,Bascom,376
+859,Adelphi,374
+860,Newtonsville,373
+861,Robertsville,372
+862,Bailey Lakes,370
+863,Beaverdam,369
+864,Pitsburg,368
+865,Clarington,366
+866,Elizabethtown,365
+867,South Solon,361
+868,Irondale,360
+869,Tremont City,358
+870,Athalia and Green Camp,357
+871,Port Jefferson and Vanlue,355
+872,Freeport,353
+873,Hannibal,352
+874,Mowrystown,351
+875,Cumberland,349
+876,East Fultonham,347
+877,Ney and Conesville,344
+878,Wharton,342
+879,McCutchenville,341
+880,Marengo and Aquilla,340
+881,Bowersville and Harrisburg,337
+882,Canal Lewisville,336
+883,Polk,335
+884,Plumwood,334
+885,Sandyville,333
+886,Ridgeway and Dellroy,331
+887,Midway,330
+888,Fresno,325
+889,Waldo,324
+890,Maplewood Park,323
+891,Marlboro,321
+892,Holloway,320
+893,Lore City and Fayetteville,315
+894,Little Hocking and Hoytville,314
+895,New Athens and Kelleys Island,313
+896,St. Martin,311
+897,Winesburg,310
+898,Rushville and Midland,309
+899,Clay Center,307
+900,Dundee,306
+901,Dupont,305
+902,Carbon Hill,298
+903,New Marshfield,297
+904,Glenmont and Chickasaw,296
+905,"Wilmot, East Rochester, and Potsdam",295
+906,Benton Ridge,292
+907,"Magnetic Springs, New Haven CDP, and Vaughnsville",291
+908,Woodstock,290
+909,"Kunkle, Morristown, and Tarlton",287
+910,Osgood,285
+911,Sherrodsville,284
+912,Empire and Good Hope,283
+913,Olde West Chester,281
+914,Nettle Lake and Stratton,277
+915,"Chesterhill, Casstown, and Hessville",276
+916,Catawba,275
+917,Scott,274
+918,Zaleski,271
+919,North Lawrence,270
+920,Rose Farm,269
+921,Cherry Fork and Old Washington,268
+922,Somerville and Burkettsville,267
+923,Tiro and Melrose,262
+924,Bannock and Donnelsville,261
+925,Fulton,258
+926,New Alexandria,256
+927,Malinta,253
+928,Mitiwanga,252
+929,Port William,251
+930,Lockbourne and Highland,247
+931,Summerfield,246
+932,Camp Dennison,244
+933,"Higginsport, Orient, and Trinway",243
+934,"Homeworth, New Riegel, Remington, and Millfield",237
+935,Mount Eaton and Kipton,236
+936,Darbyville,234
+937,Haydenville and Miamiville,233
+938,"Unionville Center, Berkey, and Chesterville",232
+939,Vincent,231
+940,Connorville,230
+941,Lafayette CDP,229
+942,Martinsburg,228
+943,North Star and Rogers,226
+944,Harrisville,225
+945,Buckland and Gratiot,224
+946,Hills and Dales,222
+947,Old Fort,221
+948,"Lakeline, Valley Hi, and Hollansburg",218
+949,"Jenera, Florida, and Belle Valley",217
+950,Roswell,216
+951,"Parral, Fort Seneca, and Ludlow Falls",215
+952,Gordon,212
+953,Hanging Rock,211
+954,Helena,210
+955,Vinton,209
+956,Haviland,202
+957,South Salem and Burbank,201
+958,East Liberty,199
+959,North Robinson and Alvordton,198
+960,Pottery Addition,197
+961,Harpster and Mount Cory,196
+962,Buford,195
+963,Zanesfield and Friendship,192
+964,West Leipsic and Lafferty,190
+965,"Buffalo, Bloomingdale, Moscow, West Elkton, and New Hampshire",189
+966,Wren,187
+967,Rossburg and Palestine,186
+968,"Custar, Nashville, and Latty",184
+969,Congress,181
+970,Macksburg and Uniopolis,180
+971,Sugar Bush Knolls and Cecil,179
+972,"Gilboa, Zoar, Rochester, and Tedrow",178
+973,Fultonham and Chatfield,177
+974,West Millgrove and Newport,176
+975,"Orangeville, Rosewood, and Bentonville",175
+976,St. Johns,173
+977,Glenford and Linndale,172
+978,"Kettlersville, Stone Creek, Hockingport, and Sarahsville",171
+979,Negley and Bladensburg,168
+980,Burgoon,167
+981,Lewisville,165
+982,Pleasant Plain,164
+983,Butlerville,162
+984,Cloverdale,160
+985,Sparta,158
+986,Glencoe and Amesville,157
+987,Plainfield and Radnor,156
+988,Montezuma,155
+989,Hemlock,152
+990,"Clifton, Melmore, and Jerusalem",151
+991,Raymond,149
+992,Rarden,148
+993,Leesville,147
+994,Milton Center,145
+995,"Belmore, Limaville, Dola, and Wilkesville",144
+996,Miller City,141
+997,Kanauga,138
+998,"Put-in-Bay, Bairdstown, and Castine",136
+999,"Mifflin, West Rushville, Plainville, and Lewistown",135
+"1,000","Sulphur Springs, Patterson, and Lockington",134
+"1,001",Nellie,131
+"1,002","Sinking Spring, New Weston, and Ithaca",130
+"1,003",Yorkshire,129
+"1,004",Cheshire,127
+"1,005",Summitville,124
+"1,006",Parkman,123
+"1,007",Bourneville,122
+"1,008",Gann and Adamsville,121
+"1,009",Brice and Dexter City,120
+"1,010",Venedocia,119
+"1,011",Wilson,117
+"1,012",Pulaski and Pancoastburg,116
+"1,013",Broughton,114
+"1,014",Kirby,113
+"1,015",Milledgeville,110
+"1,016",Neville and Harbor View,107
+"1,017",Marseilles,106
+"1,018",Salesville and Flat Rock,105
+"1,019",Mutual and Norwich,101
+"1,020",Centerville and Batesville,98
+"1,021","New Bavaria, Crystal Rock, and Rome",94
+"1,022",Blakeslee,93
+"1,023",Rockbridge and Celeryville,83
+"1,024",Lower Salem,82
+"1,025",Otway,81
+"1,026",Antioch and Fairview,80
+"1,027",Howard,78
+"1,028","Deersville, Stafford, and Yankee Lake",75
+"1,029",Graysville,72
+"1,030",Chilo,65
+"1,031",Jacksonburg,63
+"1,032",Octa,58
+"1,033",Kilbourne and Elgin,56
+"1,034",Holiday City,47
+"1,035",Vickery,44
+"1,036",Miltonsburg,41
+"1,037",Beulah Beach,39
+"1,038",Tippecanoe,37
+"1,039",Rendville,36
+"1,040",Kansas,35
+"1,041",Kimbolton,32
+"1,042",Wightmans Grove,26
+"1,043",Oceola and Stockdale,18
